@@ -1,9 +1,3 @@
-# Complete-Python-3-Bootcamp
-Course Files for Complete Python 3 Bootcamp Course on Udemy
+# Python-3-Bootcamp course
 
-Copyright(©) by Pierian Data Inc.
-
-Get it now for 95% off with the link:
-https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB
-
-Thanks!
+This repository is my personal journey to learning Python basics! It contains all the materials, exercises, and projects I'm using to build a solid foundation in Python programming. With each section, I'm progressing through key Python concepts, reinforcing my skills through practical examples and hands-on projects.
